@@ -1,7 +1,7 @@
-theme = 'feraletattoomedicine'
+theme = 'ferale'
 baseURL = 'https://example.org/'
 languageCode = "en-ca"
-title = 'Ferale Tattoo Medecine'
+title = 'Ferale liminal marks'
 author = "Julie Docteur"
 copyright = "Copyright © 20024, Julie Docteur; all rights reserved."
 DefaultContentLanguage = "en"
@@ -9,29 +9,44 @@ DefaultContentLanguage = "en"
 [menu]
 
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "bio"
+    name = "Bio"
+    url = "/bio/"
     weight = 1
   [[menu.main]]
-    identifier = "artwork"
-    name = "Artwork"
-    url = "/works/"
+    identifier = "thoughts"
+    name = "Thoughts"
+    url = "/thoughts-and-reflections/"
     weight = 2
-  [[menu.main]]
-    identifier = "music"
-    name = "Music"
-    url = "/music/"
-    weight = 3
   [[menu.main]]
     identifier = "tattoo"
     name = "Tattoo"
     url = "/tattoo/"
+    weight = 3
+  [[menu.main]]
+    identifier = "bookings"
+    name = "Bookings"
+    url = "/bookings/"
     weight = 4
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "rates"
+    name = "Rates"
+    url = "/rates/"
+    weight = 5
+  [[menu.main]]
+    identifier = "shamanic-healing"
+    name = "Shamanic healing"
+    url = "/shamanic-healing/"
+    weight = 6
+  [[menu.main]]
+    identifier = "testimonials"
+    name = "Testimonials"
+    url = "/testimonials/"
+    weight = 7
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
     weight = 8
 
 [markup]

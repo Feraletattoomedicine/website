@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ $cover := .Params.cover }}
+
+<div class="home-banner">
+    {{ with .Params.cover }}
+    <img src="{{ $cover | safeURL }}"/>
+    {{ end }}
+</div>
+
+  {{ range site.RegularPages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+    {{ .Summary }}
+  {{ end }}
+
+{{ end }}

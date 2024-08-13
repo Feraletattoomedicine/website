@@ -1,5 +1,5 @@
 +++
-title = "Tattoo"
+title = "Testimonials"
 subtitle = ""
 type = "page"
 +++

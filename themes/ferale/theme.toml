@@ -1,0 +1,15 @@
+name = 'Ferale'
+license = 'MIT'
+licenselink = 'https://github.com/Feraletattoomedicine/website'
+description = 'Theme for the website of Ferale Tattoo Medicine'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/Feraletattoomedicine/website'
+
+# Taxonomy terms
+tags = ['tattoo', 'artist']
+
+# If the theme has a single author
+[author]
+  name = 'Lizbeth Poirier'
+  homepage = 'https://ritualdust.com/'

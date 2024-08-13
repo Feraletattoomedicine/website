@@ -1,5 +1,6 @@
 +++
-title = "Tattoo"
+title = "Bookings"
 subtitle = ""
 type = "page"
+layout = "text"
 +++
