@@ -22,6 +22,7 @@ html {
   font-weight: 400;
   font-size: 22px;
   line-height: 33px;
+    min-height:100%;
 }
 
 body {
@@ -204,7 +205,67 @@ nav a:hover {
     padding:80px 0;
 }
 
+/* -------- HOME ---------*/
 
+.home footer, .home header {
+    display:none;
+}
+
+.home {
+    height:100vh;
+}
+
+.home main {
+    height:100vh;
+}
+
+.home-banner {
+    height:100vh;
+    position: relative;
+    overflow: hidden;
+    background:#4a4e33;
+}
+
+.home-banner img {
+    object-fit: cover;
+    width:100%;
+    height:100%;
+    mix-blend-mode: multiply;
+} 
+
+.home-content-wrapper {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+}
+
+.home-content {
+    max-width:600px;
+    margin:80px auto;
+    padding:0 24px;
+    text-align:center;
+    color:#fff;
+}
+
+.home-content img {
+    max-width: 300px;
+}
+
+.home-content h1 {
+    color:#fff;
+    font-size:1.5em;
+}
+
+.home-content a {
+    color:#fff;
+    font-size:1.2em;
+}
+
+.home-content a:hover {
+   border-color:#fff;
+}
 
 /* -------- FOOTER ---------*/
 
@@ -329,5 +390,8 @@ footer {
     }
     .footer-img {
         max-width:250px;
+    }
+    .home-content img {
+        max-width:200px;
     }
 }

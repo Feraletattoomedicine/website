@@ -3,7 +3,7 @@
 <head>
   {{ partial "head.html" . }}
 </head>
-<body>
+<body class="{{ lower .Title | urlize }}">
   <header>
     {{ partial "header.html" . }}
   </header>
