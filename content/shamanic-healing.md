@@ -6,58 +6,61 @@ layout = "text-banner"
 cover = "/img/shamanic-healing.jpg"
 +++
 
-Although the origin of the word “Shamanism” comes from the Tungus people of Siberia, the practice itself is as old as the world of Humans and has been found all around our planet. Some people kept the practice alive, others lost cultural aspects of it, through conquests and christianisation, but all share mind-blowing similarities through space and time. 
-For most of us, the essence of the Sacred is numbed, in the background of our conditioned minds, in a society where only rationality is acknowledged and valued. Shamanism brings back the knowledge of all things being sacred in their own way, of all things being interconnected between visible and invisible realms, between animate and inanimate. It is not about beliefs, no more than it is a religion, but about a sensuous and empiric experience that leaves our empty shells of individual egos behind, to grow towards collective unity with all beings.
+While the term "Shamanism" originates from the Tungus people of Siberia, the practice itself is as ancient as humanity and has been found worldwide. Some cultures have preserved these traditions, while others have lost aspects of them through conquests & Christianization. Yet, across time and space, we find striking similarities in these practices.
 
-If you would like to know more about shamanism, I would recommend the reading of the historian of religions Mircea Eliade’s “Shamanism: Archaic techniques of Ecstasy”, along with “The way of the Shaman” by anthropologist Michael Harner who created the Foundation for Shamanic Studies. 
-You can find more resources and links in my “Thoughts & Reflections” tab. 
+In today’s society, the essence of the Sacred often lies muted beneath the conditioning of our rational minds. Shamanism reawakens the understanding that all things are sacred in their own way and interconnected, bridging the visible and invisible realms, the animate and inanimate. It is not a belief system or religion but rather a sensuous and empirical experience that transcends individual egos, fostering a collective unity with all beings.
 
-Healers today can generally be categorized into three groups:
+If you’re interested in learning more about shamanism, I recommend reading Mircea Eliade’s “Shamanism: Archaic Techniques of Ecstasy” and Michael Harner’s “The Way of the Shaman,” which explores modern applications of shamanic practices. You can find additional resources in my [Thoughts & Reflections](/thoughts) tab.
 
-**Traditional Shamans:** These individuals practice within an unbroken shamanic tradition, often continuing their work within their native culture.
+Healers today typically fall into three categories:
 
-**Bridge Shamans:** These practitioners come from a shamanic tradition but work to connect their traditional practices with the modern Western world. They often incorporate new ceremonies and rituals not originally part of their indigenous culture.
+1. **Traditional Shamans:** Practitioners who operate within an unbroken tradition, continuing their work within their native culture.
+  
+2. **Bridge Shamans:** These individuals connect traditional practices with the modern Western world, often incorporating new rituals not originally part of their indigenous heritage.
+  
+3. **Spirit-Called Shamans:** Those called by Spirit to fulfill shamanic roles in their communities, regardless of their cultural distance from traditional practices.
 
-**Spirit-Called Shamans:** These people are called by Spirit to fulfill shamanic roles within their communities, despite being culturally distant from their original shamanic heritage.
+I identify with the third category. Since an early age, I’ve straddled both worlds, and I have been a shamanic practitioner for nearly a decade. I have been a student of the Spirits first, and of their human intermediaries through the Foundation for Shamanic Studies, here in Canada, since 2023.
 
-As for myself, I run in the third category. I’ve had a foot in each world since an early age, have been a shamanic practitioner for about 10 years as a student of the Spirit Worlds, and of its human intercessaries from the Foundation for Shamanic Studies since 2023, here in Canada.
 
 {{% spacer %}}  
 
+![](/img/Shamanism.jpg)
+
 ## WHAT KIND OF RITUALS CAN BE DONE DURING A SESSION ?
 
-Shamanic practitioners focus on directing and balancing energies to restore harmony within the individual, between the individual and their community, and between the community and the spirit world. It aims to restore balance and harmony to your life by addressing imbalances on physical, emotional, and spiritual levels.
+Shamanic practitioners focus on directing and balancing energies to restore harmony within the individual, their community, and the spirit world. The aim is to address imbalances on physical, emotional, and spiritual levels.
 
-Here’s how it often unfolds in a personal, hands-on way:
+Here’s what you might expect during a personal session:
 
-**Soul Retrieval:** Picture parts of yourself that might have scattered or dimmed due to past hurts or challenges. The practitioner helps you reclaim these lost pieces, helping you feel more complete and aligned. It’s like finding lost treasures of your own soul.
+**Soul Retrieval:** This process helps reclaim lost parts of yourself that may have scattered due to past wounds. It’s like rediscovering hidden treasures of your soul.
+  
+**Power Animal Retrieval:** You connect with a protective animal spirit that provides strength and guidance, becoming a trusted ally on your journey.
 
-**Power Animal Retrieval:** Imagine connecting with a wise, protective animal spirit that becomes a source of strength and guidance. This power animal might offer you comfort or insight when you need it most, becoming a trusted ally in your personal journey. 
+**Shamanic Extraction:** In this healing ritual, blockages, known as intrusions, are removed from your energy system. These unwanted energies disrupt its proper functioning, and the extraction process restores balance.
 
-**Shamanic extraction:** Here is a healing ritual where the practitioner removes blockages, known as intrusions, from a client's energy system. These intrusions are unwanted energies that become lodged in the client's energy field and disrupt its proper functioning. While restoring balance and harmony within the client's energy system, their healing process is facilitated.
+**Shamanic Cleansing:** The process of removing negative energies or spirits from a space, creating a harmonious environment.
 
-**Rituals and Ceremonies:** Whether you’re marking a significant life change or just seeking clarity, the practitioner might guide you through a personalized ritual. This could be anything from a ceremony to honor a new chapter in your life to a practice that helps you reconnect with nature or your inner self.
+**Support for the Dying:** Offering guidance and companionship to the spirit of a dying person or assisting the spirit of the deceased, providing support for both the individual and their family during this transition.
 
-**Shamanic Counseling:** During sessions, the practitioner may offer you intuitive insights and guidance with the help of intuition, spirit guides and divination techniques. It’s not just about spiritual advice but about helping you understand yourself better and navigate your challenges with a fresh perspective.
+**Rituals and Ceremonies:** Whether marking a significant life change or seeking clarity, I can guide you through personalized rituals—ranging from ceremonies that honor new beginnings to practices that reconnect you with nature and your inner self.
 
-Shamanic healing can feel like a deeply personal journey of discovery and rejuvenation. It’s about reconnecting with parts of yourself and the world that might have been lost or overlooked. Each experience is unique, tailored to your individual needs and path.
-Those practices & rituals focus on holistic healing, the interconnectedness of all life, and the importance of spiritual well-being.
+**Shamanic Counseling:** During sessions, I offer intuitive insights and guidance, utilizing spirit guides and divination techniques. This isn’t just spiritual advice; it’s about helping you understand yourself better and navigate your challenges with renewed perspective.
+
+Shamanic healing is a deeply personal journey of discovery and rejuvenation, focused on reconnecting with parts of yourself and the world that may have been lost or overlooked. Other kind of services may be Each experience is unique, tailored to your individual needs.
+
 
 {{% spacer %}}  
 
 ## WHAT TO EXPECT FROM A SHAMANIC HEALING ?
 
-Shamanic healing involves two main phases:
-1. Identifying the Root Energies: This involves accurately diagnosing both the visible and hidden energies that are causing the issue.
-2. Performing Energetic Work: This includes carrying out specific rituals or actions to address and resolve the problem. The shaman might work to remove misplaced energies or return energies that have been lost, which can include soul retrieval to bring back lost parts of the self.
+While each practitioner has a unique approach, a typical healing session often begins with a diagnostic journey, followed by various healing ceremonies guided by the practitioner’s helping spirits.
 
-In a community that supports shamanic practices, there’s typically time and support for individuals to integrate and process the healing they’ve received. In modern settings, it’s often up to the practitioner and client to create their own resources and support systems to help with adjusting to changes in internal energies.
- 
-Don’t expect to be fully healed after just one session. While complete healing can sometimes occur, it generally takes time and depends on the issues being addressed. Shamanic healing focuses more on restoring energy and balance rather than performing instant cures with magic wands.
+Some may experience immediate relief, while others might require time to fully realize the benefits of the session. I often recommend integration work to help clients process and understand the healing they’ve received.
 
-Each practitioner may have a unique approach, but a typical healing session usually involves a diagnostic journey followed by various healing ceremonies. The specific rituals performed will be guided by the practitioner's helping spirits.
+Don’t expect to be fully healed after just one session. While complete healing can sometimes happen, it usually takes time and is dependent on the issues being addressed. Shamanic healing focuses on restoring energy and balance rather than offering instant cures. You are the primary agent in your healing process. As a shamanic practitioner, I am here to help you connect with your own strength and energy source, but ultimately, it is up to you to confront the challenges and take the necessary steps toward recovery.
 
-Some people may experience immediate relief, while others might need time to notice the full benefits of the session. Often, the practitioner will recommend some integration work to help the client realize the full impact of the healing.
+In communities that support shamanic practices, there is typically time and space for individuals to integrate and process their healing. In modern settings, it often falls to the practitioner and client to create their own resources and support systems to help adjust to changes in internal energies.
 
 
 *It's worth noting that shamanic healing is not a substitute for conventional medical treatment but can be used as a complementary approach.*

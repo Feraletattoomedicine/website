@@ -1,9 +1,10 @@
-{{ partial "header" . }}
+{{ define "main" }}
 
-<main>
+<div class="not-found small-wrap text-center">
+    
+  <h1>Page not found</h1>
+    <a href="/">Bring me back to the home page</a>
 
-  Page not found
+</div>
 
-</main>
-
-{{ partialCached "footer" . }}
+{{ end }}

@@ -1,0 +1,8 @@
+{{ $cover := .Params.cover }}
+
+<a class="page-preview" href="{{ .Permalink }}">
+    <h2>{{ .Title }}</h2>
+    {{ with $cover }}
+        <img src="{{ . }}"/>
+    {{ end }}
+</a>

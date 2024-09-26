@@ -5,13 +5,68 @@
     {{ with .Params.cover }}
     <img src="{{ $cover | safeURL }}"/>
     {{ end }}
+    <div class="home-header-inside">
+        <div class="home-header-content">
+            <div class="image">
+                <img src="/img/illu-home.png"/>
+            </div>
+            <div class="text">
+                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ex est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eros tellus, iaculis feugiat augue non, lobortis commodo nulla. Proin non dignissim velit. Donec a sem quis enim finibus finibus. Mauris tincidunt.
+            </div>
+        </div>
+        <div class="rough-border"></div>
+    </div>
 </div>
-
-<div class="home-content-wrapper">
+<article>
+    <div class="wrap">
+        <div class="article-content">
+            <div class="big-page-previews">
+                <div class="big-page-preview">
+                    <a class="card" href="/tattoo">
+                        <h2>Tattoos</h2>
+                        <img src="/img/tattoos.jpg"/>
+                    </a>
+                    <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ex est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eros tellus</div>
+                </div>
+                <div class="big-page-preview">
+                    <a class="card" href="/tattoo/blackouts">
+                        <h2>Blackouts</h2>
+                        <img src="/img/blackouts.jpg"/>
+                    </a>
+                    <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ex est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eros tellus</div>
+                </div>
+                <div class="big-page-preview">
+                    <a class="card" href="/tattoo/liminal-marks">
+                        <h2>Liminal Marks</h2>
+                        <img src="/img/tattoos.jpg"/>
+                    </a>
+                    <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ex est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eros tellus</div>
+                </div>
+                <div class="big-page-preview">
+                    <a class="card" href="/tattoo/flash">
+                        <h2>Flash</h2>
+                        <img src="/img/tattoos.jpg"/>
+                    </a>
+                    <div class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed ex est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent eros tellus</div>
+                </div>
+            </div>
+            <div class="spacer"></div>
+            <div class="wrapper-outline">
+                <a class="button" href="/bookings/">BOOKINGS</a>
+            </div>
+            <div class="gallery">
+                <img src="/img/tattoos/00D94CF5-0ED6-4F6D-B512-AABB5E62412D.jpg"/>
+                <img src="/img/tattoos/4E9F4618-BE95-45E4-A006-CBC237FCD146.jpg"/>
+                <img src="/img/tattoos/EDB087CA-E400-45F6-8A65-C2D1B76D32FA.jpg"/>
+            </div>
+        </div>
+    </div>
+</article>
+<div class="home-content-wrapper hidden">
     <div class="home-content">
         <img src="/img/illu-home.png"/>
         <h1>Ferale liminal marks</h1>
-        <a href="">instagram</a>
+        <a href="https://www.instagram.com/ferale.primevaltattooing/">instagram</a>
     </div>
 </div>
 

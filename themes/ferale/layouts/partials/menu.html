@@ -11,9 +11,27 @@ Renders a menu for the given menu ID.
 
 {{- with index site.Menus $menuID }}
   <nav>
-    <ul>
+    <ul class="main-menu" id="mobile-menu">
+        <li class="logo">
+            <a href="/" class="home-link"><img src="/img/logo.png"/></a>
+        </li>
+        <li id="close-mobile-menu" onclick="getElementById('mobile-menu').classList.toggle('open');">
+            <img src="/img/close-mobile-menu.png"/>
+        </li>
       {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+        <li>
+            <a class="insta-link" href="https://www.instagram.com/ferale.primevaltattooing/">
+                <img src="/img/insta.png"/>
+                <img class="dark" src="/img/insta-dark.png"/>
+            </a>
+        </li>
     </ul>
+    <div class="mobile-menu-button" onclick="getElementById('mobile-menu').classList.toggle('open');">
+        <img src="/img/mobile-menu.png"/>
+    </div>
+    <a class="booking-button" href="/bookings">
+        Bookings
+    </a>
   </nav>
 {{- end }}
 

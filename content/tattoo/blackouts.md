@@ -3,28 +3,47 @@ title = "Blackouts"
 subtitle = ""
 type = "page"
 layout = "gallery"
+cover = "/img/blackouts.jpg"
 +++
 
-Blackouts require a variety of skills and techniques in order to make it look smooth as velvet as time passes.
+Creating beautiful blackout tattoos requires a diverse set of skills and techniques to achieve a smooth, velvety finish over time. 
 
-When I was still living in France, I had the chance to work for 6 years with one of the best world known artists on this area : Dekalcomanu. He’s been offering masterclasses to some of the most renowned tattooers of the world, and I was assisting him as a translator and helper. I learned a lot during those years, to offer you my dedicated experience.
+During six years, in France, I had the privilege of working alongside one of the world’s leading artists in this style, Dekalcomanu. I assisted him as a translator and helper while he conducted masterclasses for some of the most renowned tattooers globally. This experience was invaluable, allowing me to absorb a wealth of knowledge that I have since put into practice.
 
-Several components are necessary to do blackouts : 
-machine settings 
-velocity
-efficiency
-knowledge of the different skins and skin textures
-repairing scar tissue and damaged skin
-proper aftercare for soft and quick healing
-All the previous dimensions are mine to take care of. The last part is yours. It’s a team work.
+{{< float-image image="/img/blackouts/IMG_5170.jpg" side="right" >}}
 
-While sharpening blackout specialized skills since 2018, I learned to master the art of subtly altering and tuning my coil machines and power supply, while increasing my efficiency in the blackout tattoo process and understanding of the skin’s complex variety.
 
-ALTHOUGH IT IS CHALLENGING, A FULL ARM CAN BE DONE IN LESS THAN 3,5 HOURS. BUT YOU MIGHT PREFER TO DO IT IN 2 SESSIONS AS THE SENSATION IS PARTICULARLY INTENSE.
+To create a stunning blackout tattoo, several essential factors come into play:
+ 
+- Machine Settings: Applying the right alterations is crucial, and requires quite some adjustments and understanding of the tools.  
+- Velocity: Mastering the speed at which you work can significantly impact the outcome.  
+- Efficiency: Streamlining the process ensures both artistry and comfort.  
+- Understanding Skin: Different skin types and textures require tailored approaches.  
+- Repairing Scar Tissue: With care, we can enhance the appearance of damaged areas.  
+- Proper Aftercare: This is vital for ensuring soft, quick healing.  
 
-Nothing compares to the multidimensional aspects of blackouts. First of all, the sensation is very strong, intense and unique. It doesn’t have anything in common with a regular tattoo’s feeling because of the needles’ size and the speed of what’s happening. Your nervous system receives a lot of information in a small amount of time which can be unsettling and confusing. 
-Although the action resides on the surface of your skin, I witnessed many times the deeper effect it can provoque on your mind and emotions. For most of us, the experience is cathartic and also works on a deeper level of your psyche. As your skin grows darker, there might be a sense of lightness appearing at the end of this deeply transformational process.
-I believe this kind of experience acts as a powerful rite of passage of our modern era. And I believe in its mysterious dimension.
+While I take care of these dimensions, the final experience is a collaboration between us, truly a team effort.
 
-The aftercare is especially important for a blackout. You can check what will be needed here(lien vers aftercare) but I will explain to you the steps when we meet.
+Since honing my blackout skills in 2018, I’ve mastered the art of fine-tuning my coil machines and power supply, always ready with my soldering iron and clamps. Understanding the complex variety of skin types has been fundamental in increasing my efficiency, ensuring a swift process and rapid healing.
 
+Although challenging, a full arm blackout can be completed in under 3.5 hours. However, many clients prefer to do it over two sessions, as the sensation can be particularly intense.
+
+It’s also possible to repair scarred or damaged skin from previous tattoos. While we may not restore it to perfection, we can smooth its hills and furrows into a harmonious flat surface.
+
+The aftercare is especially important for a blackout. The first healing part should take less than a week and you’re skin will gently flake and peel as a snake.
+You can check what will be needed on the [aftercare page](/aftercare) but I will explain to you the steps when we meet.
+
+The multidimensional nature of blackout tattoos is unmatched. The sensation is uniquely intense, differing greatly from that of a traditional tattoo due to the size of the needles and the speed of application. Your nervous system receives a flood of information in a short time, which can feel overwhelming.
+
+Yet, even as the work occurs on the surface, I’ve witnessed profound emotional and psychological effects. For many, the experience is cathartic, working on a deeper level of the psyche. As your skin darkens, a sense of lightness often emerges by the end of this transformative process.
+
+I believe that this experience serves as a powerful rite of passage in our modern era, embodying a mysterious and profound journey.
+
+<div class="gallery">
+    <img src="/img/blackouts/IMG_20210508_151048.jpeg"/>
+    <img src="/img/blackouts/84C1F467-1718-4E82-B18E-9D2CB2215B86.jpg"/>
+    <img src="/img/blackouts/DD00400A-2B66-494B-BCF1-7D224BB466F6.jpg"/>
+    <img src="/img/blackouts/IMG_20190627_113156.jpeg"/>
+    <img src="/img/blackouts/IMG_20220226_171053.jpeg"/>
+    <img src="/img/blackouts/IMG_3064.jpg"/>
+</div>

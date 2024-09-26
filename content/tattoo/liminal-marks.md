@@ -3,11 +3,27 @@ title = "Liminal marks"
 subtitle = ""
 type = "page"
 layout = "gallery"
+cover = "/img/tattoos.jpg"
 +++
 
-It’s all about having an unspoken dialogue with you as a whole, and with your various parts and dimensions. Working silently with the soul and the body, understanding its wishes and its shapes, diving into the specific textures of your skin to adapt to. As in every exchange, there might be some adjustments to make in order to create an harmonious conversation. Your voice might speak your mind, but your soul, and the unique vibration of your body will also make some demands that need to be heard. That’s where I offer my help, to be the translator of this invisible language and bring a lifelong offering on your skin’s surface. 
-Sometimes our words are merely scratching the surface of the far deeper and subtle communication system that our beings are holding silently, using different ways of expression. 
+There have always been various words and paths for transforming oneself and one’s community, for healing, and for connecting with one another.
 
-There’s always been different words for the ways of transforming oneself and your community, the ways of healing, the ways of connecting to one another. I chose the words “LIMINAL MARKS” to speak about the in-between state I felt spending my life in. 
+LIMINAL MARKS serve as a bridge between worlds, linking your soul to your mind and your emotions to your body. In some cultures, this practice is referred to as “tattoo medicine.” As a non-indigenous practitioner, I refrain from using that term, but the essence and purpose of the practice remain similar.
 
-Varying from regular tattoos, their intent is to bring you healing on an holistic level.
+Often, our language barely scratches the surface of the deeper, subtle communication systems that exist within us. These markings facilitate an unspoken dialogue with your entire being, acknowledging its various dimensions. They allow us to work quietly with your soul and body, understanding their wishes and shapes, and diving into the unique textures of your skin.
+
+Like any meaningful exchange, our work may require adjustments to create a harmonious conversation. While your voice articulates your thoughts, your soul and the unique vibration of your body also have their own demands that need to be heard. This is where I step in—to act as a translator of this invisible language and create a lifelong offering on your skin’s surface.
+
+As you consciously surrender to the experience, allowing the symbolic sacrifice of your flow of tears & blood, we can access the underground river of emotions stored within you and release them. 
+
+Unlike traditional tattoos, the intent behind these marks is to facilitate healing on a multidimensional level. The process may resemble a typical tattoo session from the outside view, but carries a profound healing dimension. I channel guidance and energy from the Spirit World to receive unique designs, symbols, and placements tailored specifically for you. These designs are drawn directly onto your skin before we begin the marking process. Following this, I offer a shamanic healing to seal the marks, activating them as engraved talismans.
+
+
+<div class="gallery">
+    <img src="/img/tattoos/00D94CF5-0ED6-4F6D-B512-AABB5E62412D.jpg"/>
+    <img src="/img/tattoos/4E9F4618-BE95-45E4-A006-CBC237FCD146.jpg"/>
+    <img src="/img/tattoos/EDB087CA-E400-45F6-8A65-C2D1B76D32FA.jpg"/>
+    <img class="bigger-left" src="/img/tattoos/20240616140615_IMG_6292.JPG"/>
+    <img src="/img/tattoos/IMG_5817.jpg"/>
+    <img class="full" src="/img/tattoos/IMG_3481.JPG"/>
+</div>

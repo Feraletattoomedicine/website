@@ -14,34 +14,29 @@ DefaultContentLanguage = "en"
     url = "/bio/"
     weight = 1
   [[menu.main]]
-    identifier = "thoughts"
-    name = "Thoughts"
-    url = "/thoughts-and-reflections/"
-    weight = 2
-  [[menu.main]]
     identifier = "tattoo"
     name = "Tattoo"
     url = "/tattoo/"
     weight = 3
   [[menu.main]]
-    identifier = "bookings"
-    name = "Bookings"
-    url = "/bookings/"
-    weight = 4
-  [[menu.main]]
     identifier = "rates"
     name = "Rates"
     url = "/rates/"
-    weight = 5
+    weight = 4
   [[menu.main]]
     identifier = "shamanic-healing"
     name = "Shamanic healing"
     url = "/shamanic-healing/"
-    weight = 6
+    weight = 5
   [[menu.main]]
     identifier = "testimonials"
     name = "Testimonials"
     url = "/testimonials/"
+    weight = 6
+  [[menu.main]]
+    identifier = "thoughts"
+    name = "Thoughts"
+    url = "/thoughts-and-reflections/"
     weight = 7
   [[menu.main]]
     identifier = "contact"

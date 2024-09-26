@@ -1,0 +1,20 @@
+{{ $name := .Get "name" }}
+
+
+<div class="testimonial">
+    {{ with .Get "image" }}
+    <div class="img">
+      <img src="{{ . }}"/>
+    </div>
+    {{ end }}
+    {{ with .Get "text" }}
+      <div class="text">
+        {{ . }}
+          {{ with $name }}
+          <p class="name">
+            {{ . }}
+          </p>
+        {{ end }}
+      </div>
+    {{ end }}
+</div>

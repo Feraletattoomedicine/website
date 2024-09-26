@@ -1,8 +1,23 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
-  {{ end }}
+<article>
+    <div class="top-img"></div>
+    <div class="title">
+        <div class="wrap">
+            <h1>{{ .Title }}</h1>
+        </div>
+    </div>
+    <div class="wrap">
+        <div class="article-content">
+            <div class="page-links">
+                {{ range .Pages }}
+                    {{ partial "page-preview.html" . }}
+                  {{ end }}
+            </div>
+            <div class="ornament">
+                <img src="/img/ornament.png"/>
+            </div>
+            {{ .Content }}
+        </div>
+    </div>
+</article>
 {{ end }}

@@ -11,10 +11,24 @@
                 <h1>{{ .Title }}</h1>
             </div>
         </div>
+        <div class="rough-border"></div>
     </div>
     <div class="small-wrap"> 
         <div class="article-content">
-            {{ .Content }}
+        {{ .Content }}
+        <div class="spacer"></div>
+        <form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
+            <fieldset>
+                <legend>Get in touch</legend>
+                <label for="email">Email</label>
+                <input id="email" name="email" required type="email"/>
+                <input type="hidden" name="_subject" value="New message from contact form">
+                <label for="content">Message</label>
+                <textarea id="content" name="content" required></textarea>
+                <input type="hidden" name="_next" value="http://localhost:1313/thanks">
+                <button type="submit">Send message</button>
+            </fieldset>
+        </form>
         </div>
     </div>
 </article>

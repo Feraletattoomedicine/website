@@ -1,0 +1,16 @@
+<div class="full-bleed">
+    <div class="large-wrap">
+        <div class="text-image">
+            {{ with .Get "image" }}
+            <div class="img">
+              <img src="{{ . }}"/>
+            </div>
+            {{ end }}
+            {{ with .Get "text" }}
+            <div class="text">
+                {{ . }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
