@@ -588,6 +588,10 @@ nav a:hover {
     grid-column: 1 / -1;
 }
 
+.flash .gallery img {
+    mix-blend-mode: multiply;
+}
+
 /* -------- LIST PAGE ---------*/
 
 .page-links {
