@@ -19,12 +19,16 @@ In 2021, I received a pivotal opportunity: a resident artist position from Dekal
 
 Now, as I settle into Montreal's dynamic artistic community, I'm excited to continue evolving as an artist and to create meaningful, personalized tattoos that resonate with my clients. My journey is ongoing, and I look forward to what lies ahead.
 
+
+{{< ornament style="1" >}}
+
 ## PRIMAL BLACK
 
 I’ve always been fascinated by the roots of human history, the deep ones, residing in the soil and cave walls. I spent many years studying symbols, symbolism and archetypes throughout the world, aiming to identify and connect similar patterns in different cultures. The fact that those symbols inform our stories as humans and reveal some parts of our mysterious connections within the big web of life is, for me, an incredible source of awe and a sight to behold. Driven by the awareness that within the myriad differences of human cultures, there is a shared preoccupation with certain transcendental elements, I wanted to reflect this in my tattooing practice.
 
 That led me to create, in 2019, what I named the “Primal Black” style. It joins the desire to offer modern, committed & healing rites of passage, with an anchor in our primordial archetypes.
 
+{{< ornament style="2" >}}
 
 ## SPIRITUAL PATH 
 

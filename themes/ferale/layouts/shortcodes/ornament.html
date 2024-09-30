@@ -1,0 +1,9 @@
+{{ $style := .Get "style" }}
+
+<div class="ornament style-{{ $style }}">
+    {{ if eq $style "2" }}
+    <img src="/img/ornament-3.png"/>
+    {{ else }}
+    <img src="/img/ornament-2.png"/>
+    {{ end }}
+</div>

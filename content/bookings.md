@@ -13,7 +13,7 @@ layout = "text"
 
 ## Tattoo
 
-<form>
+<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
     <fieldset>
         <legend>Book a standard tattoo session</legend>
         <label for="name">Name</label>
@@ -34,13 +34,17 @@ layout = "text"
         <input name="location" type="text" required/>
         <label for="desc">Description / placement / size</label>
         <textarea name="desc" required></textarea>
+        <input type="hidden" name="_subject" value="New message from standard tattoo session form">
+        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>
 
+{{< ornament style="1" >}}
+
 ## Liminal Marks
 
-<form>
+<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
     <fieldset>
         <legend>Book a liminal tattoo session</legend>
         <label for="name">Name</label>
@@ -69,13 +73,17 @@ layout = "text"
         <textarea name="values"></textarea>
         <label for="dedication">Are you ready for a process that demands dedication and why is it important to you ?</label>
         <textarea name="dedication" required></textarea>
+        <input type="hidden" name="_subject" value="New message from liminal marks session form">
+        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>
 
+{{< ornament style="1" >}}
+
 ## Shamanic Healing
 
-<form>
+<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
     <fieldset>
         <legend>Book a shamanic healing session</legend>
         <label for="name">Name</label>
@@ -88,6 +96,8 @@ layout = "text"
         <textarea name="why" required></textarea>
         <label for="symptoms">What kind of symptoms do you present ?</label>
         <textarea name="symptoms" required></textarea>
+        <input type="hidden" name="_subject" value="New message from shamanic healing session form">
+        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>

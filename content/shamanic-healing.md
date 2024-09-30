@@ -49,9 +49,8 @@ Here’s what you might expect during a personal session:
 
 Shamanic healing is a deeply personal journey of discovery and rejuvenation, focused on reconnecting with parts of yourself and the world that may have been lost or overlooked. Other kind of services may be Each experience is unique, tailored to your individual needs.
 
-
-{{% spacer %}}  
-
+{{< ornament style="1" >}}
+            
 ## WHAT TO EXPECT FROM A SHAMANIC HEALING ?
 
 While each practitioner has a unique approach, a typical healing session often begins with a diagnostic journey, followed by various healing ceremonies guided by the practitioner’s helping spirits.
