@@ -3,8 +3,13 @@ title = "Flash"
 subtitle = ""
 type = "page"
 layout = "gallery"
-cover = "/img/bookings.jpeg"
+cover = "/img/FLASH.jpg"
 +++
+
+All those designs can be altered and adapted to your unique body shape. 
+They’re genderless, models are only used for presentation.
+If you need to integrate a cover-up, don’t hesitate to ask and we’ll try and find a way to make it work.
+
 
 <div class="gallery">
     <img src="/img/flash/5F4DDDE8-3FF9-4C3F-8676-F3D4BA0486B6.jpg"/>

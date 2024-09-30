@@ -478,7 +478,7 @@ nav a:hover {
     bottom:0;
     top:0;
     width:100%;
-    z-index:10;
+   z-index: 4;
 }
 
 .home-header-content {
@@ -1056,5 +1056,22 @@ footer {
     .top-img-wood {
         background-position: 0 -216px;
         background-size: 589px;
+    }
+    .home-banner {
+        height:750px;
+    }
+    .home-header-content {
+        flex-direction:column;
+        margin: 48px 16px;
+    }
+    .big-page-previews {
+        grid-template-columns: 100%;
+    }
+    .home-banner .image {
+        min-width:0;
+    }
+    .home-banner .image img {
+        object-fit:fit;
+        height:250px;
     }
 }
