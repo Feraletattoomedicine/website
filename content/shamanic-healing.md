@@ -10,7 +10,7 @@ While the term "Shamanism" originates from the Tungus people of Siberia, the pra
 
 In today’s society, the essence of the Sacred often lies muted beneath the conditioning of our rational minds. Shamanism reawakens the understanding that all things are sacred in their own way and interconnected, bridging the visible and invisible realms, the animate and inanimate. It is not a belief system or religion but rather a sensuous and empirical experience that transcends individual egos, fostering a collective unity with all beings.
 
-If you’re interested in learning more about shamanism, I recommend reading Mircea Eliade’s “Shamanism: Archaic Techniques of Ecstasy” and Michael Harner’s “The Way of the Shaman,” which explores modern applications of shamanic practices. You can find additional resources in my [Thoughts & Reflections](/thoughts) tab.
+If you’re interested in learning more about shamanism, I recommend reading Mircea Eliade’s “Shamanism: Archaic Techniques of Ecstasy” and Michael Harner’s “The Way of the Shaman,” which explores modern applications of shamanic practices. You can find additional resources in my [Thoughts & Reflections](/thoughts-and-reflections) tab.
 
 Healers today typically fall into three categories:
 
