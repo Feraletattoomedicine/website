@@ -23,12 +23,12 @@ layout = "text"
         <label for="email">Email</label>
         <input name="email" type="email" required/>
         <div class="checkbox">
-            <input name="over18" type="checkbox"/>
+            <input name="over18" type="checkbox" value="yes"/>
             <label for="over18">Are you over 18?</label>
         </div>
         <div class="checkbox">
-            <input name="firsttattoo" type="checkbox"/>
-            <label for="firsttattoo">Have you been tattooed before?</label>
+            <input name="tattooed-before" type="checkbox" value="yes"/>
+            <label for="tattooed-before">Have you been tattooed before?</label>
         </div>
         <label for="location">Where do you live?</label>
         <input name="location" type="text" required/>
@@ -56,12 +56,12 @@ layout = "text"
         <label for="email">Email</label>
         <input name="email" type="email" required/>
         <div class="checkbox">
-            <input name="over18" type="checkbox"/>
+            <input name="over18" type="checkbox" value="yes"/>
             <label for="over18">Are you over 18?</label>
         </div>
         <div class="checkbox">
-            <input name="firsttattoo" type="checkbox"/>
-            <label for="firsttattoo">Have you been tattooed before?</label>
+            <input name="tattooed-before" type="checkbox" value="yes"/>
+            <label for="tattooed-before">Have you been tattooed before?</label>
         </div>
         <label for="background">Who are you ? What’s your background ?</label>
         <textarea name="background" required></textarea>
