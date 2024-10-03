@@ -37,7 +37,7 @@ layout = "text"
         <label for="attachment">Reference pictures</label>
         <input type="file" name="attachment" accept="image/png, image/jpeg">
         <input type="hidden" name="_subject" value="New message from standard tattoo session form">
-        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
+        <input type="hidden" name="_next" value="https://liminalmarks.com/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>
@@ -76,7 +76,7 @@ layout = "text"
         <label for="dedication">Are you ready for a process that demands dedication and why is it important to you ?</label>
         <textarea name="dedication" required></textarea>
         <input type="hidden" name="_subject" value="New message from liminal marks session form">
-        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
+        <input type="hidden" name="_next" value="https://liminalmarks.com/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>
@@ -99,7 +99,7 @@ layout = "text"
         <label for="symptoms">What kind of symptoms do you present ?</label>
         <textarea name="symptoms" required></textarea>
         <input type="hidden" name="_subject" value="New message from shamanic healing session form">
-        <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
+        <input type="hidden" name="_next" value="https://liminalmarks.com/thank-you">
         <button type="submit">Send request</button>
     </fieldset>
 </form>
