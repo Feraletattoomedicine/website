@@ -13,7 +13,7 @@ layout = "text"
 
 ## Tattoo
 
-<form action="https://formsubmit.co/contact@liminalmarks.com" method="POST">
+<form action="https://formsubmit.co/contact@liminalmarks.com" method="POST" enctype="multipart/form-data">
     <fieldset>
         <legend>Book a standard tattoo session</legend>
         <label for="name">Name</label>
@@ -34,6 +34,8 @@ layout = "text"
         <input name="location" type="text" required/>
         <label for="desc">Description / placement / size</label>
         <textarea name="desc" required></textarea>
+        <label for="attachment">Reference pictures</label>
+        <input type="file" name="attachment" accept="image/png, image/jpeg">
         <input type="hidden" name="_subject" value="New message from standard tattoo session form">
         <input type="hidden" name="_next" value="http://localhost:1313/thank-you">
         <button type="submit">Send request</button>
