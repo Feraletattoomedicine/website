@@ -2,5 +2,5 @@
 title = "Home"
 subtitle = ""
 type = "page"
-cover= "/img/home.jpg"
+cover= "/img/home-new.jpg"
 +++

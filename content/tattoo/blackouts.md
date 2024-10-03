@@ -10,7 +10,7 @@ Creating beautiful blackout tattoos requires a diverse set of skills and techniq
 
 During six years, in France, I had the privilege of working alongside one of the world’s leading artists in this style, Dekalcomanu. I assisted him as a translator and helper while he conducted masterclasses for some of the most renowned tattooers globally. This experience was invaluable, allowing me to absorb a wealth of knowledge that I have since put into practice.
 
-{{< float-image image="/img/blackouts/IMG_5170.jpg" side="right" >}}
+{{< float-image image="/img/blackouts/1.jpg" side="right" >}}
 
 
 To create a stunning blackout tattoo, several essential factors come into play:
@@ -40,40 +40,48 @@ Yet, even as the work occurs on the surface, I’ve witnessed profound emotional
 I believe that this experience serves as a powerful rite of passage in our modern era, embodying a mysterious and profound journey.
 
 <div class="gallery">
-    <img src="/img/blackouts/IMG_20210508_151048.jpeg"/>
-    <img src="/img/blackouts/84C1F467-1718-4E82-B18E-9D2CB2215B86.jpg"/>
-    <img src="/img/blackouts/DD00400A-2B66-494B-BCF1-7D224BB466F6.jpg"/>
-    <img src="/img/blackouts/84C1F467-1718-4E82-B18E-9D2CB2215B86.jpg"/>
-    <img src="/img/blackouts/IMG_20190627_113156.jpeg"/>
-    <img src="/img/blackouts/IMG_0409.jpg"/>
-    <img src="/img/blackouts/IMG_1681.jpg"/>
-    <img src="/img/blackouts/IMG_1941.jpg"/>
-    <img src="/img/blackouts/IMG_3064.jpg"/>
-    <img src="/img/blackouts/IMG_9414.jpg"/>
-    <img src="/img/blackouts/IMG_8080.jpg"/>
-    <img src="/img/blackouts/IMG_5102.jpg"/>
-    <img src="/img/blackouts/IMG_1759.jpg"/>
-    <img src="/img/blackouts/IMG_3065.jpg"/>
-    <img src="/img/blackouts/20221021_191251.jpg"/>
-    <img src="/img/blackouts/IMG_20220226_171053.jpeg"/>
-    <img src="/img/blackouts/IMG_3064.jpg"/>
-    <img src="/img/blackouts/IMG_3597.JPG"/>
-    <img src="/img/blackouts/IMG_3598.JPG"/>
-    <img src="/img/blackouts/IMG_3599.JPG"/>
-    <img src="/img/blackouts/IMG_3600.JPG"/>
-    <img src="/img/blackouts/IMG_3593.JPG"/>
-    <img src="/img/blackouts/IMG_3594.JPG"/>
-    <img src="/img/blackouts/IMG_3595.JPG"/>
-    <img src="/img/blackouts/IMG_3596.JPG"/>
-    <img src="/img/blackouts/IMG_3592.JPG"/>
-    <img src="/img/blackouts/IMG_3516.JPG"/>
-    <img src="/img/blackouts/IMG_3515.JPG"/>
-    <img src="/img/blackouts/IMG_3513.JPG"/>
-    <img src="/img/blackouts/IMG_3512.JPG"/>
-    <img src="/img/blackouts/IMG_3511.JPG"/>
-    <img src="/img/blackouts/IMG_3499.JPG"/>
-    <img src="/img/blackouts/IMG_3479.JPG"/>
-    <img src="/img/blackouts/IMG_3483.JPG"/>
-    <img src="/img/blackouts/IMG_3484.JPG"/>
-    <img src="/img/blackouts/IMG_3244.JPG"/>
+    <img src="/img/blackouts/5.jpg"/>
+    <img src="/img/blackouts/3.jpg"/>
+    <img src="/img/blackouts/28.jpg"/>
+    <img class="bigger-left" src="/img/blackouts/7.jpg"/>
+    <img src="/img/blackouts/2.jpg"/>
+    <img src="/img/blackouts/4.jpg"/> 
+    <img class="bigger-right" src="/img/blackouts/6.jpg"/>
+    <img class="full" src="/img/blackouts/9.jpg"/>
+    <img src="/img/blackouts/10.jpg"/>
+    <img src="/img/blackouts/12.jpg"/>
+    <img src="/img/blackouts/13.jpg"/>
+    <img src="/img/blackouts/14.jpg"/>
+    <img class="bigger-right" src="/img/blackouts/15.jpg"/>
+    <img class="full" src="/img/blackouts/17.jpg"/>
+    <img class="full" src="/img/blackouts/21.jpg"/>
+    <img class="full" src="/img/blackouts/23.jpg"/>
+    <img class="bigger-left" src="/img/blackouts/25.jpg"/>
+    <img src="/img/blackouts/27.jpg"/>
+    <img class="full" src="/img/blackouts/29.jpg"/>
+    <img class="full" src="/img/blackouts/30.jpg"/>
+    <img class="full" src="/img/blackouts/31.jpg"/>
+    <img class="full" src="/img/blackouts/32.jpg"/>
+    <img class="full" src="/img/blackouts/33.jpg"/>
+    <img class="full" src="/img/blackouts/34.jpg"/>
+    <img class="full" src="/img/blackouts/35.jpg"/>
+    <img class="full" src="/img/blackouts/36.jpg"/>
+    <img class="full" src="/img/blackouts/37.jpg"/>
+    <img class="full" src="/img/blackouts/38.jpg"/>
+    <img class="full" src="/img/blackouts/39.jpg"/>
+    <img class="full" src="/img/blackouts/40.jpg"/>
+    <img src="/img/blackouts/18.jpg"/>
+    <img src="/img/blackouts/19.jpg"/>
+    <img src="/img/blackouts/41.jpg"/>
+    <img class="bigger-left" src="/img/blackouts/43.jpg"/>
+    <img src="/img/blackouts/44.jpg"/>
+    <img src="/img/blackouts/45.jpg"/>
+    <img class="bigger-right" src="/img/blackouts/47.jpg"/>
+    <img src="/img/blackouts/46.jpg"/>
+    <img src="/img/blackouts/48.jpg"/>
+    <img src="/img/blackouts/49.jpg"/>
+    <img class="bigger-left" src="/img/blackouts/51.jpg"/>
+    <img src="/img/blackouts/50.jpg"/>
+    <img src="/img/blackouts/52.jpg"/>
+    <img src="/img/blackouts/53.jpg"/>
 </div>
