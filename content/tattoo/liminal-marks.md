@@ -20,76 +20,37 @@ Unlike traditional tattoos, the intent behind these marks is to facilitate heali
 
 
 <div class="gallery">
-    <img src="/img/liminal-marks/1.jpg"/>
-    <img src="/img/liminal-marks/2.jpg"/>
-    <img src="/img/liminal-marks/3.jpg"/>
-    <img src="/img/liminal-marks/4.jpg"/>
-    <img src="/img/liminal-marks/5.jpg"/>
-    <img src="/img/liminal-marks/6.jpg"/>
-    <img src="/img/liminal-marks/7.jpg"/>
     <img class="full" src="/img/liminal-marks/8.jpg"/>
     <img class="full" src="/img/liminal-marks/9.jpg"/>
     <img class="full" src="/img/liminal-marks/10.jpg"/>
-    <img src="/img/liminal-marks/11.jpg"/>
-    <img src="/img/liminal-marks/12.jpg"/>
-    <img src="/img/liminal-marks/13.jpg"/>
-    <img src="/img/liminal-marks/14.jpg"/>
-    <img src="/img/liminal-marks/15.jpg"/>
+    <img src="/img/liminal-marks/69.jpg"/>
+    <img class="bigger-right" src="/img/liminal-marks/14.jpg"/>
+    <img class="bigger-left" src="/img/liminal-marks/15.jpg"/>
+    <img src="/img/liminal-marks/72.jpg"/>
     <img class="full" src="/img/liminal-marks/16.jpg"/>
     <img src="/img/liminal-marks/17.jpg"/>
     <img src="/img/liminal-marks/18.jpg"/>
     <img src="/img/liminal-marks/19.jpg"/>
-    <img src="/img/liminal-marks/20.jpg"/>
-    <img src="/img/liminal-marks/21.jpg"/>
-    <img src="/img/liminal-marks/22.jpg"/>
-    <img src="/img/liminal-marks/23.jpg"/>
-    <img src="/img/liminal-marks/24.jpg"/>
-    <img src="/img/liminal-marks/25.jpg"/>
     <img class="full" src="/img/liminal-marks/26.jpg"/>
     <img src="/img/liminal-marks/27.jpg"/>
     <img class="bigger-right" src="/img/liminal-marks/29.jpg"/>
     <img class="full" src="/img/liminal-marks/28.jpg"/>
-    <img src="/img/liminal-marks/30.jpg"/>
-    <img src="/img/liminal-marks/31.jpg"/>
-    <img src="/img/liminal-marks/32.jpg"/>
-    <img src="/img/liminal-marks/33.jpg"/>
-    <img src="/img/liminal-marks/34.jpg"/>
-    <img src="/img/liminal-marks/35.jpg"/>
-    <img src="/img/liminal-marks/36.jpg"/>
-    <img src="/img/liminal-marks/37.jpg"/>
+    <img class="full" src="/img/liminal-marks/30.jpg"/>
     <img class="full" src="/img/liminal-marks/38.jpg"/>
-    <img src="/img/liminal-marks/39.jpg"/>
+    <img class="full" src="/img/liminal-marks/39.jpg"/>
+    <img src="/img/liminal-marks/31.jpg"/>
     <img src="/img/liminal-marks/40.jpg"/>
     <img src="/img/liminal-marks/41.jpg"/>
-    <img src="/img/liminal-marks/42.jpg"/>
-    <img src="/img/liminal-marks/43.jpg"/>
-    <img src="/img/liminal-marks/44.jpg"/>
-    <img src="/img/liminal-marks/45.jpg"/>
-    <img src="/img/liminal-marks/46.jpg"/>
-    <img src="/img/liminal-marks/47.jpg"/>
-    <img src="/img/liminal-marks/48.jpg"/>
-    <img src="/img/liminal-marks/49.jpg"/>
     <img class="full" src="/img/liminal-marks/50.jpg"/>
     <img class="full" src="/img/liminal-marks/51.jpg"/>
-    <img src="/img/liminal-marks/52.jpg"/>
-    <img src="/img/liminal-marks/53.jpg"/>
     <img class="full" src="/img/liminal-marks/54.jpg"/>
     <img class="full" src="/img/liminal-marks/56.jpg"/>
-    <img src="/img/liminal-marks/57.jpg"/>
-    <img src="/img/liminal-marks/55.jpg"/>
     <img class="full" src="/img/liminal-marks/58.jpg"/>
+    <img src="/img/liminal-marks/57.jpg"/>
     <img src="/img/liminal-marks/59.jpg"/>
     <img src="/img/liminal-marks/60.jpg"/>
-    <img src="/img/liminal-marks/61.jpg"/>
-    <img src="/img/liminal-marks/62.jpg"/>
-    <img src="/img/liminal-marks/63.jpg"/>
-    <img src="/img/liminal-marks/64.jpg"/>
-    <img src="/img/liminal-marks/65.jpg"/>
-    <img src="/img/liminal-marks/66.jpg"/>
     <img class="full" src="/img/liminal-marks/67.jpg"/>
-    <img src="/img/liminal-marks/68.jpg"/>
-    <img src="/img/liminal-marks/69.jpg"/>
-    <img src="/img/liminal-marks/72.jpg"/>
+    <img class="full" src="/img/liminal-marks/68.jpg"/>
     <img class="full" src="/img/liminal-marks/70.jpg"/>
     <img class="full" src="/img/liminal-marks/71.jpg"/>
     <img class="full" src="/img/liminal-marks/73.jpg"/>
