@@ -13,7 +13,7 @@ layout = "text"
 
 ## Tattoo
 
-<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
+<form action="https://formsubmit.co/contact@liminalmarks.com" method="POST">
     <fieldset>
         <legend>Book a standard tattoo session</legend>
         <label for="name">Name</label>
@@ -44,7 +44,7 @@ layout = "text"
 
 ## Liminal Marks
 
-<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
+<form action="https://formsubmit.co/contact@liminalmarks.com" method="POST">
     <fieldset>
         <legend>Book a liminal tattoo session</legend>
         <label for="name">Name</label>
@@ -83,7 +83,7 @@ layout = "text"
 
 ## Shamanic Healing
 
-<form action="https://formsubmit.co/lizbeth.poirier.m@gmail.com" method="POST">
+<form action="https://formsubmit.co/contact@liminalmarks.com" method="POST">
     <fieldset>
         <legend>Book a shamanic healing session</legend>
         <label for="name">Name</label>
