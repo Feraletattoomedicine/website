@@ -69,6 +69,10 @@ hr {
     text-align:center;
 }
 
+.hidden {
+    display:none!important;
+}
+
 /* ----------- typography -------------- */
 
 @font-face {

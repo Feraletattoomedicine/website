@@ -4,7 +4,7 @@ subtitle = ""
 type = "page"
 +++
 
-<div class="gallery">
+<div class="gallery hidden">
     <img class="full" src="/img/tattoos/4.jpg"/>
     <img class="full" src="/img/tattoos/9.jpg"/>
     <img class="full" src="/img/tattoos/10.jpg"/>
